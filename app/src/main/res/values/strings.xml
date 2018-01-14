@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MediaController</string>
+    <string name="full_screen">full screen mode</string>
+</resources>
